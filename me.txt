@@ -1,0 +1,5 @@
+{{#user}
+Name: shubham 
+Skills: big data ,Python ,Hadoop ,SQL ,Spark ,mapreduce ,AWS ,RDS ,EMR ,EC2 ,S3 ,Glue ,athena ,reshift ,airflow ,etc.
+Email: shubhamghodake02@gmail.com
+{{/user}}
